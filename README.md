@@ -1,6 +1,8 @@
 # zelo-ai-confidence
 # Built at Code; Without Barriers (Microsoft, IWD) 
-# Intentionally playful visual interface to lower intimidation barriers for target audience
+
+**Note:** Intentionally playful visual interface to lower intimidation barriers for the target audience
+
 **Title:** Zelo
 
 **Tagline:** Build confidence your way, in your time
